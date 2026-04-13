@@ -20,7 +20,7 @@
 
 ## ✨ À propos
 
-Atelier Numérique Québec est un studio digital qui conçoit des plateformes modernes, simples et performantes.
+Atelier Numérique Québec est un studio digital qui conçoit des plateformes modernes, luxe, complexe et performantes.
 
 Nous transformons des idées en produits numériques élégants et scalables.
 
