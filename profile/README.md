@@ -59,18 +59,6 @@ Rehearse is an elite behavioral simulation engine designed for high-stakes inter
 
 ---
 
-### 3. Vela — AI-Powered Canadian Recruitment SaaS
-**Asset Class:** Enterprise HR-Tech / Marketplace | **Liquidity Status:** 🟡 Growth Phase — Available for Strategic Acquisition | **Deployment:** [https://www.velarecruitment.ca](https://www.velarecruitment.ca)
-
-Vela is an automated, bilingual recruitment engine built to optimize talent acquisition pipelines across North American enterprise ecosystems, bridging the gap between high-volume talent pools and market demands.
-
-*   **Deterministic Match Indexing:** Utilizes local mathematical matrix routing to instantly grade candidate alignment out of a perfect 100 based on strict operational data points, structural skill sets, and geographical parameters.
-*   **Corporate Accountability Analytics:** Introduces the market-first "Ghost Score" indexing mechanism, tracking corporate response rates against strict regional benchmarks to ensure ecosystem integrity.
-*   **Multi-Tenant Workspace Security:** Engineered for scale with precise cryptographic role-based access control (RBAC), multi-layered visual Kanban pipelines, and structural equity filtering rules.
-*   **High-Conversion Public Directory:** Features programmatic discovery layers and strict data boundaries to optimize natural candidate acquisition while protecting proprietary database assets.
-
----
-
 ## 📜 Compliance, Governance & Structural Disclaimers
 *   **Healthcare Framework Boundary:** Resistaa functions exclusively as an advanced behavioral optimization and productivity tool. It does not provide clinical diagnostic processes, therapeutic evaluations, or regulated medical intervention.
 *   **Data Security & Sovereign Compliance:** All entities within the Maison GR portfolio adhere to stringent international privacy directives, localized data cross-border constraints, and premium encryption standards.
